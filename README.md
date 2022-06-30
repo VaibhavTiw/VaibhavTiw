@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhavTiw
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development.
 
 
 <!---
