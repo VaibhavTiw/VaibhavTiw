@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VaibhavTiw
+- 👋 Hi, I’m Vaibhav Tiwari.
+- ✨ Second Year Computer Science & Engineering Undergrad @ KIIT Bhubaneshwar.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning Web Development.
 
