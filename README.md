@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vaibhav Tiwari.<br>✨ Second Year Computer Science & Engineering Undergrad @ KIIT Bhubaneshwar.<br>👀 I’m interested in learning new technologies.<br>🌱 I’m currently learning Web Development.
+👋 Hi, I’m Vaibhav Tiwari.<br>✨ Third Year Computer Science & Engineering Undergrad @ KIIT Bhubaneshwar.<br>👀 I’m interested in learning new technologies.<br>🌱 I’m currently learning Web Development.
 
 [![@vaibhav_tiw's Holopin board](https://holopin.io/api/user/board?user=vaibhav_tiw)](https://holopin.io/@vaibhav_tiw)
 
