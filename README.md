@@ -13,5 +13,6 @@ I'm always excited to connect with like-minded individuals and explore collabora
 ![](https://github-readme-stats.vercel.app/api?username=VaibhavTiw&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavTiw&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavTiw&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @vaibhav_tiw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav_tiw)](https://holopin.io/@vaibhav_tiw)
