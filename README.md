@@ -1,10 +1,10 @@
 ## 🚀 About Me:
-Hey there! I'm Vaibhav Tiwari, currently a final-year Computer Science and Engineering student at KIIT Bhubaneshwar. I have a passion for exploring and learning new technologies, constantly seeking to expand my knowledge and skills. <br>
+Hey there! I'm Vaibhav Tiwari, currently a final-year Computer Science and Engineering student at KIIT Bhubaneshwar. Having a passion for exploring and learning new technologies, constantly seeking to expand my knowledge and skills. <br>
 
 ### What I'm Currently Learning:
 Backend Technologies: Delving into server-side programming, APIs, and databases. <br>
 DevOps: Experimenting with tools and practices to streamline development and deployment processes. <br><br>
-I'm always excited to connect with like-minded individuals and explore collaborative opportunities. Let's build something amazing together!
+Looking forward and excited to connect with like-minded individuals and explore collaborative opportunities. <br> Let's build something amazing together!
 
 
 # 💻 Tech Stack:
